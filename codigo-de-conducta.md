@@ -38,9 +38,9 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
   
-Whenever you enter a Beautiful Patterns session, please display your full name. For example, in a session on Zoom, please ensure you full name is visible to all participants.
+Whenever you enter a Beautiful Patterns session, display your full name. For example, in a videocall on Zoom, ensure you full name is visible to all participants.
 
-If you share your personal contact information with anyone else in Beautiful Patterns, you do so at your own risk.
+*Disclaimer: If you share your personal contact information with anyone else in Beautiful Patterns, you do so at your own risk.
 
 ## Enforcement Responsibilities
 
