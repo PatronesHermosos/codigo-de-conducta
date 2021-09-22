@@ -37,6 +37,10 @@ Examples of unacceptable behavior include:
 * Recording Beautiful Patterns videocall sessions and/or recording other contributors to Beautiful Patterns in any manner (including but not limited to screenshots, screen recording, video recording, audio recording, quoting) without the consent of everyone present.
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
+  
+Whenever you enter a Beautiful Patterns session, please display your full name. For example, in a session on Zoom, please ensure you full name is visible to all participants.
+
+If you share your personal contact information with anyone else in Beautiful Patterns, you do so at your own risk.
 
 ## Enforcement Responsibilities
 
