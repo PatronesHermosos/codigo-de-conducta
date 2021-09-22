@@ -34,6 +34,7 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+* Recording sessions, recording other contributors to Beautiful Patterns in any manner (including but not limited to screenshots, screen recording, video recording, audio recording, quoting) without the consent of everyone present.
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
