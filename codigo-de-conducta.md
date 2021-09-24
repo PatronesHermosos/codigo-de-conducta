@@ -1,7 +1,7 @@
 
 # Código de conducta del pacto del colaborador
 
-##Nuestro compromiso
+## Nuestro compromiso
 
 Nosotros, como miembros, colaboradores y líderes, nos comprometemos a hacer de la participación en nuestra comunidad una experiencia libre de acoso para todos, independientemente de su edad, apariencia física, discapacidad visible o invisible, origen étnico, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, casta, color, religión o identidad y orientación sexual.
 
